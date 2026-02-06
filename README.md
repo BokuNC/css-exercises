@@ -1,3 +1,7 @@
+Forked from the original The Odin Project repo, as instructed in the Foundational Course, so that the files can be freely edited without risk of losing anything.
+
+---
+
 # CSS Exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
